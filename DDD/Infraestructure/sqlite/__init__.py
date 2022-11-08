@@ -1,0 +1,1 @@
+from DDD.Infraestructure.sqlite.venta.venta_query_service import VentaQueryServiceImpl
